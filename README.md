@@ -1,3 +1,3 @@
 # bus-book
-This is online bus ticket booking app.
+This is online bus ticket booking app.<br>
 Author - Ankit Amkar
